@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Race Plan"
 permalink: /race-plan/
+---
 
 1. Start
 2. Rhythm call at 45 seconds
